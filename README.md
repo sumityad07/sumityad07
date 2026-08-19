@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Sumit Yadav<br>3rd Year Computer Science Student | Full-Stack Developer | GenAI Enthusiast<br><br>I’m a developer based in Delhi, currently pursuing my B.Tech at ADGITM. I love building scalable web applications and exploring the intersection of Large Language Models and real-world utility. When I'm not debugging, you'll probably find me writing Hindi poetry or refining a new UI component.<br>Languages: Java, TypeScript, JavaScript (ES6+), C++.<br><br>Frontend: React.js, Tailwind CSS, HTML5/CSS3.<br><br>Backend: Node.js, Express.js.<br><br>Database: MongoDB, PostgreSQL.<br><br>AI/ML: LangChain, HuggingFace, ChromaDB.
+👋 Hi, I’m Sumit Yadav<br>4th Year Computer Science Student | Full-Stack Developer | GenAI Enthusiast<br><br>I’m a developer based in Delhi, currently pursuing my B.Tech at ADGITM. I love building scalable web applications and exploring the intersection of Large Language Models and real-world utility. When I'm not debugging, you'll probably find me writing Hindi poetry or refining a new UI component.<br>Languages: Java, TypeScript, JavaScript (ES6+), C++.<br><br>Frontend: React.js, Tailwind CSS, HTML5/CSS3.<br><br>Backend: Node.js, Express.js.<br><br>Database: MongoDB, PostgreSQL.<br><br>AI/ML: LangChain, HuggingFace, ChromaDB.
 
 
 ## 🌐 Socials:
